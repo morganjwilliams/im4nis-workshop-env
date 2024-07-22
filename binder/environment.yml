@@ -24,7 +24,9 @@ dependencies:
   - requests
   - jupyter
   - jupyterlab
-  - pyrolite
   - openpyxl
   - dtreeviz
   - tqdm
+  - pip
+  - pip:
+      - git+https://github.com/morganjwilliams/pyrolite.git@develop#egg=pyrolite # latest develop release
