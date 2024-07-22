@@ -27,3 +27,4 @@ dependencies:
   - pyrolite
   - openpyxl
   - dtreeviz
+  - tqdm
