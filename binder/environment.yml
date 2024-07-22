@@ -1,4 +1,5 @@
 # conda env create -f environment.yml
+# https://nbgitpuller.readthedocs.io/en/latest/link.html?tab=binder
 
 name: im4nis-workshop-env
 
